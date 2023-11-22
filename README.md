@@ -21,12 +21,19 @@ Show or hide an React Tooltip using hover, click, double-click, focus, and custo
 
 ## Related links
 [Learn More about React Tooltip](https://www.syncfusion.com/react-components/react-tooltip?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Documentation](https://ej2.syncfusion.com/react/documentation/tooltip/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-tooltip-component?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Community Forums](https://www.syncfusion.com/forums/react-js2?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Suggest a feature](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
+
 [Online Examples](https://ej2.syncfusion.com/react/demos/#/bootstrap5/tooltip/default?utm_source=github&utm_medium=listing&utm_campaign=react-tooltip-github-samples)
 
 
